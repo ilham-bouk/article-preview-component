@@ -2,6 +2,8 @@
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
+<br>The demo of my solution: https://ilham-bouk.github.io/article-preview-component/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
