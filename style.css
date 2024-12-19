@@ -5,6 +5,10 @@ body {
   font-family: "Manrope", sans-serif;
   margin: 0;
   background-color: hsl(210, 46%, 95%);
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  height: 100vh;
 }
 p {
   color: hsl(214, 17%, 51%);
